@@ -1,0 +1,104 @@
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+	border: 2px solid green;
+}
+.header{
+	border: 2px solid black;
+	overflow: hidden;
+	padding: 15px;
+}
+.one{
+	border: 2px solid red;
+	width: 30%;
+	height: 45px;
+	float: left;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.two{
+	border: 2px solid orange;
+	width: 42%;
+	height: 45px;
+	margin-right: 15px;
+	float: left;	
+}
+.three{
+	border: 2px solid yellow;
+	width: 20%;
+	height: 45px;
+	margin-right: 15px;
+	float: left;
+}
+.container{
+	border: 2px solid black;
+	overflow: hidden;
+	padding: 15px;
+}
+.four{
+	border: 2px solid green;
+	width: 50%;
+	height: 65px;
+	float: left;
+}
+.five{
+	border: 2px solid blue;
+	width: 33%;
+	height: 65px;
+	float: right;
+}
+.mainbody{
+	border: 2px solid red;
+	padding: 18px;
+}
+.six{
+	border: 2px solid black;
+	width: 18%;
+	height: 95px;
+	display: inline-block;
+	margin-left: 44px;
+}
+.box{
+	border: 2px solid orange;
+	overflow: hidden;
+	padding: 15px;
+}
+.seven{
+	border: 2px solid brown;
+	width: 40%;
+	height: 55px;
+	float: left;
+	margin-right: 23px;
+	margin-left: 22px;
+}
+.eight{
+	border: 2px solid brown;
+	width: 30%;
+	height: 55px;
+	float: left;
+	margin-right: 19px;
+}
+.nine{
+	border: 2px solid brown;
+	width: 20%;
+	height: 55px;
+	float: left;
+	margin-right: 10px;
+}
+.footer{
+	border: 2px solid red;
+	overflow: hidden;
+	padding: 15px;
+}
+.ten{
+	border: 2px solid black;
+	width: 50%;
+	height: 45px;
+	float: left;
+}
+.eleven{
+	border: 2px solid black;
+	width: 38%;
+	height: 45px;
+	float: right;	
+}
